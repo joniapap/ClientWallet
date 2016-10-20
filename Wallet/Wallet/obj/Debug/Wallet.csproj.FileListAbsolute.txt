@@ -1,0 +1,6 @@
+c:\users\jon\documents\visual studio 2013\Projects\Wallet\Wallet\bin\Wallet.dll.config
+c:\users\jon\documents\visual studio 2013\Projects\Wallet\Wallet\bin\Wallet.dll
+c:\users\jon\documents\visual studio 2013\Projects\Wallet\Wallet\bin\Wallet.pdb
+c:\users\jon\documents\visual studio 2013\Projects\Wallet\Wallet\obj\Debug\Wallet.dll
+c:\users\jon\documents\visual studio 2013\Projects\Wallet\Wallet\obj\Debug\Wallet.pdb
+c:\users\jon\documents\visual studio 2013\Projects\Wallet\Wallet\obj\Debug\Wallet.csprojResolveAssemblyReference.cache
