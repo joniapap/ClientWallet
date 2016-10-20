@@ -1,0 +1,7 @@
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\WalletTest\WalletTest\bin\Debug\WalletTest.dll
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\WalletTest\WalletTest\bin\Debug\WalletTest.pdb
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\WalletTest\WalletTest\bin\Debug\Wallet.dll
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\WalletTest\WalletTest\bin\Debug\Wallet.pdb
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\WalletTest\WalletTest\obj\Debug\WalletTest.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\WalletTest\WalletTest\obj\Debug\WalletTest.dll
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\WalletTest\WalletTest\obj\Debug\WalletTest.pdb
